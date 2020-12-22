@@ -6,7 +6,8 @@ A Google Chrome Extension
 CricketMania is a Google Chrome small extension which is capable of showing the current matches. This is a small demo application with limited features due to limited free API access.
 
 
-**Process**
+**Usage**
+
 The process to utilize the extension is as follows,
   - Register* in the site https://www.cricapi.com/ and get the API key,
   - Update the API key inside the file, background.js,
