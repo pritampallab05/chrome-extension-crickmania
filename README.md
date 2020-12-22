@@ -13,8 +13,10 @@ The process to utilize the extension is as follows,
 ***This is a non-sponsored application. You can use any other API provider.**
 
 License
+
 Apache License
 
 **N.B.**
+
 Icons made by https://www.flaticon.com/authors/smashicons from https://www.flaticon.com/
 You need to add this in the html file for real usage.
