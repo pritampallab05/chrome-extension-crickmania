@@ -10,11 +10,11 @@ The process to utilize the extension is as follows,
   - Enable the developer option,
   - Click on Load Punpacked button and select the folder where you have cloned the repository,
   - Voilla !!! now you can see the glossy cricket ball icon on top right (If not then select it from Extensions button and pin it).
-
 ***This is a non-sponsored application. You can use any other API provider.**
 
 License
-
 Apache License
 
-**Free Software, Hell Yeah!**
+**N.B.**
+Icons made by https://www.flaticon.com/authors/smashicons from https://www.flaticon.com/
+You need to add this in the html file for real usage.
