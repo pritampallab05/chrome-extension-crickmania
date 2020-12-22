@@ -1,5 +1,3 @@
-# chrome-extension-crickmania
-
 # CricketMania
 A Google Chrome Extension
 
@@ -16,6 +14,7 @@ The process to utilize the extension is as follows,
 ***This is a non-sponsored application. You can use any other API provider.**
 
 License
-MIT
+
+Apache License
 
 **Free Software, Hell Yeah!**
